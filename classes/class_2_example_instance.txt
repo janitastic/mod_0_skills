@@ -1,0 +1,16 @@
+Instance Sweet Valley Academy Gym
+
+Attributes
+bathroomInUse = false
+sportsBalls = ["basketball", "football", "soccer ball", "dodgeball"]
+coachName = ["Coach Steve"]
+totalKids = 24
+rules = ["no sitting", "no puking", "no pooping in the basketball net"]
+schoolSlogan = "Show her you like her. Kick her in the shins."
+
+Methods
+bathroomLocke (bathroomInUse = true)
+bathroomUnlocked (bathroomInUse = false)
+listSportsBalls (sportsBalls = ["basketball", "football", "soccer ball" "dodgeball"])
+printCoachName (coachName = "Coach Steve")
+printRules (rules = ["no sitting", "no puking", "no pooping in the basketball net"])

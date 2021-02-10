@@ -1,0 +1,17 @@
+var famousPerson = {
+  name: "Brad Pitt",
+  isActive: true,
+}
+
+famousPerson.name = "Matt Damon",
+
+famousPerson.num3 = 30;
+famousPerson.num9 = 90;
+
+console.log(`The sum of {.num3} and {num9} is {sum}`);
+
+famousPerson.animals = ["Zebra", "Monkey", "Elephant"]
+
+removeAnimal: animals = ["Zebra", "Monkey"]
+
+characterCount: name = {famousPerson.count};

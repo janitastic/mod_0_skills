@@ -1,0 +1,16 @@
+Class Gym
+
+Attributes
+bathroomInUse (boolean)
+sportsBalls (array)
+coachName (string)
+totalKids (object)
+rules (array)
+schoolSlogan (string)
+
+Methods
+bathroomLocked (changes bathroomInUse to true)
+bathroomUnlocked (changes bathroomInUse to false)
+listSportsBall (displays array of sportsBalls)
+seatSpectators (changes hasBleachers to true)
+printCoachName (prints the coachName string)

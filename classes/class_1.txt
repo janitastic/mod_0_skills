@@ -1,0 +1,24 @@
+Class TeachersLounge
+
+Attributes
+hasCoffee (boolean)
+teachers (array)
+appliances (array)
+furniture (object)
+isLocked (boolean)
+wallQuote (string)
+bulletinBoard (array)
+location (string)
+snacks (array)
+schoolName (string)
+totalTeachersInside (integer)
+
+
+Methods
+brewCoffee (changes hasCoffee boolean)
+emptyCoffee (changes emptyCofee boolean)
+addTeacher (adds a name to the teachers array)
+listAppliances (lists appliances in the array)
+removeFurniture (removes a furniture item or items from the furniture array)
+chooseSnack (list snacks array)
+countTeachers (reports the totalTeachersInside integer)

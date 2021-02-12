@@ -6,7 +6,7 @@ teachers = ["Mr. Mongle", "Miss Simpson", "Mr. Campos"]
 appliances = ["Microwave", "Refrigerator", "Coffee Maker"]
 furniture = {sofa: 2, table: 3, chair: 12}
 isLocked = false
-wallQuote = "Eat My Shorts - Bart Simpson"
+wallQuote = "The influence of a good teacher can never be erased."
 bulletinBoard = ["calendar of events", "daily bell schedule", "lunch items", "potluck sign up sheet"]mk
 location = "second floor of building B"
 snacks = ["string cheese", "donuts", "apples"]
@@ -15,10 +15,10 @@ totalTeachersInside = 3
 
 
 Methods
-brewCoffee (hasCoffee = false)
+brewCoffee (hasCoffee = true)
 emptyCoffee (hasCoffee = false)
 addTeacher (teachers = ["Mr. Mongle", "Miss Simpson", "Mr. Campos", "Mrs. Scholly"], adds Mrs. Scholly to the teachers array)
 listAppliances (appliances = ["Microwave", "Refrigerator", "Coffee Maker"]
 removeFurniture (furniture = {sofa: 1, table: 3, chair: 12}, removes a count from to sofa object)
-chooseSnack (snacks = ["string cheese", "donuts", "apples"])
+viewSnacks (snacks = ["string cheese", "donuts", "apples"])
 countTeachers = 3 (totalTeachersInside = 3)

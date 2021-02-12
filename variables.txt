@@ -1,17 +1,17 @@
-var famousPerson = {
-  name: "Brad Pitt",
-  isActive: true,
-}
+var famousPerson = "Brad Pitt";
 
-famousPerson.name = "Matt Damon",
+var isActive = true;
 
-famousPerson.num3 = 30;
-famousPerson.num9 = 90;
+famousPerson = "Matt Damon";
 
-console.log(`The sum of {.num3} and {num9} is {sum}`);
+var num3 = 30;
 
-famousPerson.animals = ["Zebra", "Monkey", "Elephant"]
+var num9 = 90;
 
-removeAnimal: animals = ["Zebra", "Monkey"]
+var sum = num9 + num3;
 
-characterCount: name = {famousPerson.count};
+var animals = ["Zebra", "Monkey", "Elephant"]
+
+var firstElement = animals.shift();
+
+var count = famousPerson.length;
